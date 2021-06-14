@@ -1,4 +1,5 @@
 
+<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -17,14 +18,20 @@
       <thead class="thead-dark">
         <tr>
           <th scope="col">NO</th>
-	  <Br>
+	  <br>
           <th scope="col">First Name</th>
-          <Br>
+          <br>
           <th scope="col">Last Name</th>
+          <br>
           <th scope="col">REG No</th>
+          <br>
           <th scope="col">Course</th>
+	  <br>
           <th scope="col">Supervisor</th>
+          <br>
           <th scope="col">Topic</th>
+	  <br>
+	  <th scope="col">Description</th>
           
         </tr>
       </thead>
@@ -781,4 +788,3 @@
     -->
   </body>
 </html>
-
